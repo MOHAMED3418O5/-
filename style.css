@@ -29,7 +29,7 @@ span{
 }
 button{
     position: absolute;
-    left: 48%;
+    left: 45%;
     top: 40%;
     background-color: rgb(0, 0, 0);
     color: #fff;
@@ -66,5 +66,6 @@ button{
     top: 40%;
     
 }
+
 
 }
